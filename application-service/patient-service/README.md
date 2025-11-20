@@ -1,0 +1,1 @@
+Patient service (Node.js) - exposes /patients and /health

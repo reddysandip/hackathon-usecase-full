@@ -1,0 +1,1 @@
+Appointment service (Node.js) - calls patient service to list appointments
