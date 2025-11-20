@@ -6,3 +6,5 @@ target/
 *.log
 *.zip
 .env
+gcp-sa-key.json
+*.json
